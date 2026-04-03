@@ -35,6 +35,7 @@ DATA & FILE OVERVIEW
 File list (filenames, directory structure (for zipped files) and brief description of all data files):
 4 files in the code folder: 
 workflow.ipynb file: does all the machine learning workflow.
+df.rar: contains the following 3 csv files: 
 df_rods.csv: contains all the predicted diffusion coefficients and metric for the rod structure out of the grid from datas.csv.
 df_spheres.csv: contains all the predicted diffusion coefficients and metric for the sphere structure out of the grid from datas.csv.
 df_rectangles.csv: contains all the predicted diffusion coefficients and metric for the rectangle structure out of the grid from datas.csv.
